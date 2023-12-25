@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivano-uglik&layout=compact&theme=synthwave"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ivano-uglik&show_icons=true&theme=synthwave" width="500">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivano-uglik&theme=synthwave)](https://git.io/streak-stats)
+
 <!--
 **ivano-uglik/ivano-uglik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
