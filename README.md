@@ -19,3 +19,5 @@ Here's a glimpse of my skills and projects I have worked on:
 
 
 Let's build something amazing together! 🚀
+
+[LinkedIn](https://www.linkedin.com/in/ivano-uglik/)
