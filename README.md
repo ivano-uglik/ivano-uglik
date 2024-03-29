@@ -5,11 +5,13 @@ Hi, I'm Ivano, a web developer based in eastern Croatia with 1 1/2 years of expe
 
 Here's a glimpse of my skills and projects I have worked on:
 ### Skills:
-- **Web development:** React (++ Vite && Next.js 13), Typescript, Javascript,  HTML, CSS (++ tailwind)
+- **Web development:** React (++ Vite && Next.js 13+), TS/JS, HTML, CSS (++ tailwind)
 - **Version Control:** Git, GitHub
 - **Deployment:** Vercel
 - **Programming:** C/C++, Python
 - **Hobby Projects:** Arduino, ESP32, IoT
+  
+- **Learning:** Angular (see **[Potjera](https://github.com/ivano-uglik/potjera-the-chase-simulator)** for more), Ionic && Capacitor **(see [Pametno Parkiranje](https://github.com/ivano-uglik/pametno-parkiranje)** for more)
 
 ### Projects:
 - **[Ja, Slovjan [WIP]](https://ja-slovjan.vercel.app/):** A language learning app designed for learning Slavic languages through [language transfer](https://www.wikiwand.com/en/Language_transfer). Open beta release in mid-2024!
