@@ -14,7 +14,6 @@ Here's a glimpse of my skills and projects I have worked on:
 - **Learning:** Angular (see **[Potjera](https://github.com/ivano-uglik/potjera-the-chase-simulator)** for more), Ionic && Capacitor **(see [Pametno Parkiranje](https://github.com/ivano-uglik/pametno-parkiranje)** for more)
 
 ### Projects:
-- **[Ja, Slovjan [WIP]](https://ja-slovjan.vercel.app/):** A language learning app designed for learning Slavic languages through [language transfer](https://www.wikiwand.com/en/Language_transfer). Open beta release in mid-2024!
 - **[Žuti Taxi Vinkovci](https://www.zuti-taxi.com/):** Landing page for a local taxi service.
 - **[Gimme](https://gimme-marketing-two.vercel.app/):** A marketing page && blog for an Order & Pay solution by Zirelco, a Swiss-based development company.
 - **[Ajvar Studios](https://ajvar-studios.vercel.app/):** A marketing page for an up-and-coming game studio.
