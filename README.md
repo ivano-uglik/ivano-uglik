@@ -16,7 +16,7 @@ Here's a glimpse of my skills and projects I have worked on:
 ### Projects:
 - **[Žuti Taxi Vinkovci](https://www.zuti-taxi.com/):** Landing page for a local taxi service.
 - **[Gimme](https://gimme-marketing-two.vercel.app/):** A marketing page && blog for an Order & Pay solution by Zirelco, a Swiss-based development company.
-- **[Ajvar Studios](https://ajvar-studios.vercel.app/):** A marketing page for an up-and-coming game studio.
+- **[Ajvar Studios](https://www.ajvarstudio.com/):** A marketing page for an up-and-coming game studio.
 
 
 Let's build something amazing together! 🚀
